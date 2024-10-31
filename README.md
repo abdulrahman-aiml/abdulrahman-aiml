@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Rahman</h1>
 <h3 align="center">An AI/ML engineer from India, turning data into intelligent action</h3>
-<img align = 'right' alt='coding' width='400' src = "![image](https://github.com/user-attachments/assets/94e19274-3de3-4aab-aafe-5f223e7fe9ac)">
+<img align="right" alt="AI/ML Engineer at work" width="400" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" src="https://github.com/user-attachments/assets/94e19274-3de3-4aab-aafe-5f223e7fe9ac" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-aiml" /> </p>
 
