@@ -1,4 +1,4 @@
-![logo](https://github.com/abdulrahman-aiml/abdulrahman-aiml)
+![logo](https://github.com/abdulrahman-aiml/abdulrahman-aiml/blob/main/1076-The-Coder.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Rahman</h1>
 <h3 align="center">An AI/ML engineer from India, turning data into intelligent action</h3>
 
