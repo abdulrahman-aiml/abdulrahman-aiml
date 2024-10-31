@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Rahman</h1>
 <h3 align="center">An AI/ML engineer from India, turning data into intelligent action</h3>
+<img align = 'right' alt='coding' width='400' src = 'https://in.images.search.yahoo.com/search/images;_ylt=Awrx.pYHKCNn6Og.msS9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANzU1ZHN1Zjb1FmYVFXNE9wanc1blpBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzI0BHF1ZXJ5A2NhcnRvb24lMjBnaWZzJTIwZm9yJTIwZ2l0JTIwaHViBHRfc3RtcAMxNzMwMzU3MzY1?p=cartoon+gifs+for+git+hub&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN826G0#id=5&iurl=https%3A%2F%2Fraw.githubusercontent.com%2Fjsuarezruiz%2Fjsuarezruiz%2Fmaster%2Fimages%2Fcoding.gif&action=click'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-aiml" /> </p>
 
