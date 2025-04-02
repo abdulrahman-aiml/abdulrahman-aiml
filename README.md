@@ -76,3 +76,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-aiml&show_icons=true&locale=en" alt="abdulrahman-aiml" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-aiml&" alt="abdulrahman-aiml" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-aiml&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-aiml&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-aiml&theme=tokyonight)
+
