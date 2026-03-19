@@ -1,26 +1,24 @@
-# About Me
+# Abd al-rahman Aman
 
-Hello! I'm Abdulrahman, an AI and Machine Learning enthusiast. I am passionate about developing innovative solutions and advancing technology.
+## Contact Information
+- Email: 786mohdamaan2000@gmail.com
+- LinkedIn: [linkedin.com/in/abd-al-rahman-aman](https://linkedin.com/in/abd-al-rahman-aman)
 
-# Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat-square&logo=google&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-React-green)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![Node.js](https://img.shields.io/badge/Node.js-14.0+-purple)
 
-# Featured Projects
+## GitHub Stats
 
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-aiml&show_icons=true&hide_title=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-aiml&layout=compact)  
 
-# GitHub Stats
+## About Me
 
-![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-aiml&show_icons=true&theme=radical)
+I am a passionate software developer with expertise in building web applications using modern technologies. I thrive in collaborative environments and enjoy tackling challenging problems. My goal is to contribute to exciting projects and continuously improve my skills.  
 
-# Contact
-
-Feel free to reach out:
-- Email: abdulrahman@example.com  
-- LinkedIn: [linkedin.com/in/abdulrahman](https://linkedin.com/in/abdulrahman)
+---
